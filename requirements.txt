@@ -1,0 +1,5 @@
+jupyterlab
+notebook
+pylint
+plotly
+ipywidgets

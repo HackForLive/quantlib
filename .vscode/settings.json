@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "D:/git/quantlib/venv/Scripts/python.exe",
+    "pylint.path": ["D:/git/quantlib/venv/Scripts/pylint.exe"],
+    "pylint.importStrategy": "fromEnvironment",
+    "python.testing.pytestArgs": [
+        "tests",
+    ],
+    "python.testing.pytestPath": "D:/git/quantlib/venv/Scripts/pytest.exe",
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "editor.rulers": [100]
+}
