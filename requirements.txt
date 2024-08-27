@@ -3,3 +3,4 @@ notebook
 pylint
 plotly
 ipywidgets
+playwright
